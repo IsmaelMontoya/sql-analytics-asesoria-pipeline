@@ -59,25 +59,26 @@ Motivos:
 
 ## 5. Estructura del proyecto
 
-proyecto-sql/
+proyecto-sql/ <br>
+│ <br>
+├── data/ <br>
+│ ├── clients.csv <br>
+│ ├── advisors.csv <br>
+│ ├── services.csv <br>
+│ ├── invoices.csv <br>
+│ ├── payments.csv <br>
+│ └── project_asesoria.db
+│ <br>
+├── sql/ <br>
+│ ├── 01_schema.sql <br>
+│ ├── 02_load_staging.sql <br>
+│ ├── 03_transform_core.sql <br>
+│ ├── 04_semantic_views.sql <br>
+│ ├── 05_analysis_queries.sql <br>
+│ ├── 06_quality_checks.sql <br>
+│ ├── 07_advanced_sql.sql <br>
 │
-├── data/
-│ ├── clients.csv
-│ ├── advisors.csv
-│ ├── services.csv
-│ ├── invoices.csv
-│ └── payments.csv
-│
-├── sql/
-│ ├── 01_schema.sql
-│ ├── 02_load_staging.sql
-│ ├── 03_transform_core.sql
-│ ├── 04_semantic_views.sql
-│ ├── 05_analysis_queries.sql
-│ ├── 06_quality_checks.sql
-│ ├── 07_advanced_sql.sql
-│
-├── project_asesoria.db
+├── PROJECT_BRIEF.md
 └── README.md
 
 
