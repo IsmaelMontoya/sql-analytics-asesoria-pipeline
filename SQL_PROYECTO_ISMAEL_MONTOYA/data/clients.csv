@@ -1,0 +1,82 @@
+client_id,client_name,client_type,city,sector,signup_date,email,phone
+C001,Servicios Alameda,Autonomo,Valencia,Construccion,2025-10-17,info@serviciosalameda.es,683197857
+C002,Servicios Prisma,Autonomo,Sevilla,Comercio,2024-10-31,info@serviciosprisma.es,690801586
+C003,Grupo Vertex Asesores,Autonomo,Murcia,Salud,2022-01-14,info@grupovertexasesores.es,631429110
+C004,Talleres Futura S.L.,SL,Málaga,Construccion,2022-07-09,info@talleresfuturasl.es,660992979
+C005,Servicios Mistral,PYME,Madrid,Marketing,2025-01-03,info@serviciosmistral.es,626753883
+C006,Talleres Levante,SL,Murcia,Educacion,2025-03-28,,635808537
+C007,Servicios Norte,SL,Barcelona,Comercio,2022-07-26,info@serviciosnorte.es,661019678
+C008,Innovacion Nexus,PYME,Málaga,Educacion,2023-03-06,info@innovacionnexus.es,699949389
+C009,Innovacion Levante,Autonomo,Sevilla,Tecnologia,2024-08-04,info@innovacionlevante.es,660929647
+C010,Innovacion Vertex Consultores,SL,Madrid,Comercio,2022-03-07,info@innovacionvertexconsultores.es,652339391
+C011,Talleres Atlas Consultores,Autonomo,Valladolid,Logistica,2025-08-09,info@talleresatlasconsultores.es,671586053
+C012,Consulting Atlas Consultores,SL,Zaragoza,Logistica,2024-01-12,info@consultingatlasconsultores.es,639436733
+C013,Consulting Riviera,SL,Barcelona,Tecnologia,2025-07-09,info@consultingriviera.es,
+C014,Talleres Ágora Asesores,PYME,Valladolid,Legal,2023-05-30,info@talleresagoraasesores.es,684252722
+C015,Grupo Iberica,PYME,Bilbao,Educacion,2022-08-17,info@grupoiberica.es,649392920
+C016,Talleres Costa,SL,Bilbao,Legal,2023-01-01,info@tallerescosta.es,678139880
+C017,Servicios Zenit,PYME,Sevilla,Tecnologia,2024-02-05,info@servicioszenit.es,631682744
+C018,Estudio Riviera,PYME,Valladolid,Hosteleria,2022-08-18,info@estudioriviera.es,658718453
+C019,Innovacion Orion SL,Autonomo,Valladolid,Construccion,2024-12-26,info@innovacionorionsl.es,626879290
+C020,Consulting Aurora,Autonomo,A Coruña,Logistica,2023-03-10,info@consultingaurora.es,682383095
+C021,Soluciones Zenit,PYME,Málaga,Marketing,2024-11-25,info@solucioneszenit.es,670597444
+C022,Servicios Orion Consultores,Autonomo,A Coruña,Comercio,2025-04-20,info@serviciosorionconsultores.es,639557077
+C023,Grupo Levante,Autonomo,Barcelona,,2023-11-08,info@grupolevante.es,619510312
+C024,Estudio Orion Asesores,Autonomo,Valencia,Marketing,2023-05-13,info@estudioorionasesores.es,673481353
+C025,Talleres Delta Asesores,PYME,Zaragoza,Marketing,2022-04-21,info@talleresdeltaasesores.es,697705310
+C026,Servicios Norte,Autonomo,Barcelona,Comercio,2023-01-28,info@serviciosnorte.es,635529407
+C027,Estudio Nexus S.L.,Autonomo,Sevilla,Construccion,2024-06-26,info@estudionexussl.es,683863413
+C028,Servicios Norte,PYME,Madrid,Construccion,2023-04-30,info@serviciosnorte.es,632321899
+C029,Talleres Aurora,SL,Madrid,Tecnologia,2024-02-16,info@talleresaurora.es,610289289
+C030,Talleres Atlas,SL,Bilbao,Logistica,2025-11-27,info@talleresatlas.es,684593961
+C031,Clinica Central S.L.,SL,madrid,Legal,2022-05-05,info@clinicacentralsl.es,652091325
+C032, Grupo Norte  ,PYME,A Coruña,Tecnologia,2022-04-27,info@gruponorte.es,678159587
+C033,Servicios Costa SL,PYME,Sevilla,Logistica,2022-09-03,info@servicioscostasl.es,686460539
+C034,Soluciones Prisma,PYME,Zaragoza,Legal,2023-10-10,info@solucionesprisma.es,644999379
+C035,Soluciones Futura Asesores,Autonomo,Bilbao,Marketing,2023-10-10,info@solucionesfuturaasesores.es,619736572
+C036,Grupo Nexus,PYME,Barcelona,Construccion,2025-01-06,info@gruponexus.es,638609087
+C037,Estudio Atlas Consultores,SL,Sevilla,Educacion,2023-08-07,info@estudioatlasconsultores.es,631172421
+C038,Clinica Vertex,PYME,A Coruña,Hosteleria,2025-09-29,info@clinicavertex.es,684437458
+C039,Innovacion Iberica,Autonomo,Barcelona,Construccion,2025-02-07,info@innovacioniberica.es,630863865
+C040,Innovacion Zenit,SL,Sevilla,Salud,2024-11-01,info@innovacionzenit.es,675569635
+C041,Innovacion Norte Asesores,SL,Madrid,Hosteleria,2023-11-15,info@innovacionnorteasesores.es,627558317
+C042,Innovacion Costa,PYME,Zaragoza,Legal,2022-01-20,info@innovacioncosta.es,625015458
+C043,Servicios Central,SL,Murcia,Legal,2022-10-31,info@servicioscentral.es,667684996
+C044,Consulting Norte,SL,Madrid,Educacion,2023-03-07,info@consultingnorte.es,643491314
+C045,Servicios Mistral,SL,Zaragoza,Tecnologia,2023-04-30,administracion@@servicios.es,631810617
+C046,Consulting Luna Consultores,SL,Zaragoza,Comercio,2023-07-01,info@consultinglunaconsultores.es,631367172
+C047,Servicios Brisa,SL,Sevilla,Comercio,2024-07-31,info@serviciosbrisa.es,656930359
+C048,Innovacion Orion S.L.,PYME,Bilbao,Construccion,2023-07-26,info@innovacionorionsl.es,657130035
+C049,Estudio Brisa,SL,Málaga,Hosteleria,2022-08-25,info@estudiobrisa.es,645059710
+C050,Consulting Prisma,Autonomo,Barcelona,Logistica,2023-12-09,info@consultingprisma.es,652101056
+C051,Talleres Ágora,Autonomo,Murcia,Comercio,2023-06-06,info@talleresagora.es,615957459
+C052,Talleres Alameda,SL,Sevilla,Educacion,2024-06-02,info@talleresalameda.es,619391725
+C053,Distribuciones Ágora,SL,Bilbao,Legal,2023-09-26,info@distribucionesagora.es,699508850
+C054,Talleres Futura,Autonomo,Valencia,Comercio,2024-05-11,info@talleresfutura.es,699245317
+C055,Talleres Costa,Autonomo,A Coruña,Hosteleria,2023-09-15,info@tallerescosta.es,648508907
+C056,Soluciones Luna,PYME,Málaga,Marketing,2024-06-23,info@solucionesluna.es,669345683
+C057,Soluciones Riviera,SL,Valencia,Construccion,2023-08-05,info@solucionesriviera.es,679182797
+C058,Gestiones Futura S.L.,PYME,Sevilla,Comercio,2022-10-29,info@gestionesfuturasl.es,613278320
+C059,Grupo Orion,PYME,Barcelona,Marketing,2024-04-28,info@grupoorion.es,694525678
+C060,Gestiones Delta,PYME,Zaragoza,Comercio,2022-10-30,info@gestionesdelta.es,698054615
+C061,Grupo Iberica,Autonomo,A Coruña,Marketing,2022-04-13,info@grupoiberica.es,684813739
+C062,Soluciones Iberica,SL,A Coruña,Legal,2025-05-04,info@solucionesiberica.es,652587010
+C063,Clinica Ágora,SL,Zaragoza,Legal,2024-07-02,info@clinicaagora.es,631361812
+C064,Clinica Nexus S.L.,SL,Bilbao,Legal,2024-09-19,info@clinicanexussl.es,694120751
+C065,Soluciones Atlas,SL,Sevilla,Salud,2023-11-19,info@solucionesatlas.es,652910691
+C066,Estudio Levante S.L.,PYME,Valencia,Comercio,2022-05-12,info@estudiolevantesl.es,665682626
+C067,Talleres Futura,PYME,Sevilla,Logistica,2024-03-08,info@talleresfutura.es,688393811
+C068,Grupo Prisma,Autonomo,Málaga,Salud,2024-03-09,info@grupoprisma.es,666240084
+C069,Estudio Vertex,SL,Valladolid,Comercio,2023-07-13,info@estudiovertex.es,668496914
+C070,Clinica Alameda,PYME,Zaragoza,Tecnologia,2024-08-15,info@clinicaalameda.es,627129912
+C071,Gestiones Vertex Asesores,PYME,Madrid,Construccion,2025-08-09,info@gestionesvertexasesores.es,667527432
+C072,Consulting Nexus Consultores,PYME,Sevilla,Marketing,2023-11-01,info@consultingnexusconsultores.es,655298556
+C073,Talleres Atlas,SL,Bilbao,Construccion,2024-08-21,info@talleresatlas.es,612601580
+C074,Estudio Norte,Autonomo,Barcelona,Hosteleria,2022-03-05,info@estudionorte.es,643189803
+C075,Soluciones Alameda,Autonomo,Valladolid,Construccion,2025-03-01,info@solucionesalameda.es,639254705
+C076,Clinica Atlas,Autonomo,Murcia,Construccion,2022-12-02,info@clinicaatlas.es,651746937
+C077,Servicios Prisma Consultores,PYME,Zaragoza,Logistica,2023-02-11,info@serviciosprismaconsultores.es,620200074
+C078,Gestiones Orion Consultores,SL,Murcia,Construccion,2025-03-05,info@gestionesorionconsultores.es,615512205
+C079,Distribuciones Vertex,PYME,A Coruña,Educacion,2022-01-26,info@distribucionesvertex.es,666379329
+C080,Clinica Iberica,PYME,Valladolid,Tecnologia,2024-06-10,info@clinicaiberica.es,633640702
+C018,Estudio Riviera,PYME,Valladolid,Hosteleria,2022-08-18,info@estudioriviera.es,658718453

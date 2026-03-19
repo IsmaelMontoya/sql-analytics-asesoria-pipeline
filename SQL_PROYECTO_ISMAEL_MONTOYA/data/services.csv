@@ -1,0 +1,401 @@
+service_id,client_id,advisor_id,service_date,service_type,hours_worked,base_fee,service_status
+S0001,C035,A005,2024-09-14,Nominas,6.1,404.12,Completado
+S0002,C025,A004,2025-05-10,Nominas,4.7,256.41,Completado
+S0003,C013,A004,2024-10-30,Nominas,6.4,474.29,Completado
+S0004,C036,A001,2024-02-25,Contabilidad mensual,8.4,338.16,Completado
+S0005,C014,A001,2025-08-10,Nominas,4.5,297.39,Completado
+S0006,C033,A008,2024-04-26,Alta autonomo,4.5,211.16,Completado
+S0007,C020,A003,2025-07-30,Asesoria mercantil,8.5,319.54,Completado
+S0008,C078,A010,2025-09-25,Nominas,6.7,412.70,Completado
+S0009,C039,A010,2025-03-15,Nominas,4.0,323.07,Completado
+S0010,C027,A011,2024-08-04,Nominas,,349.29,Completado
+S0011,C021,A001,2025-02-22,Contabilidad mensual,4.0,173.58,Completado
+S0012,C037,A012,2024-10-16,Impuesto sociedades,4.0,220.78,Completado
+S0013,C076,A011,2024-07-21,Contabilidad mensual,5.5,404.82,Completado
+S0014,C019,A002,2024-03-02,Declaracion trimestral,0.8,126.13,Completado
+S0015,C057,A002,2025-04-24,Impuesto sociedades,1.2,153.46,Completado
+S0016,C057,A002,2025-09-04,Declaracion trimestral,3.8,378.38,Completado
+S0017,C004,A002,2024-08-22,Asesoria mercantil,2.8,209.59,Pendiente
+S0018,C035,A010,2024-02-11,Alta autonomo,5.7,314.25,Completado
+S0019,C036,A003,2025-08-22,Contabilidad mensual,3.0,,Completado
+S0020,C045,A007,2024-12-07,Nominas,1.9,250.94,Completado
+S0021,C064,A005,2025-11-09,Asesoria mercantil,8.2,453.16,Completado
+S0022,C012,A006,2024-09-15,Nominas,4.5,364.14,Cancelado
+S0023,C070,A008,2025-02-27,Declaracion trimestral,5.1,250.65,Completado
+S0024,C057,A001,2024-07-27,Nominas,1.9,227.91,Completado
+S0025,C016,A001,2025-10-07,Constitucion sociedad,3.8,291.31,Completado
+S0026,C071,A007,2024-04-05,Nominas,5.2,210.82,Pendiente
+S0027,C020,A008,2024-10-25,Contabilidad mensual,2.5,97.43,Completado
+S0028,C032,A008,2025-07-18,Declaracion trimestral,5.8,492.45,Completado
+S0029,C009,A005,2025-02-28,Nominas,3.7,247.12,Completado
+S0030,C037,A012,2024-11-01,Alta autonomo,4.4,195.14,Completado
+S0031,C058,A009,2025-05-10,Nominas,3.7,254.96,Completado
+S0032,C042,A004,2025-12-15,Nominas,9.1,611.58,Completado
+S0033,C006,A006,2025-04-29,Impuesto sociedades,5.0,444.80,Completado
+S0034,C064,A001,2024-05-09,Contabilidad mensual,2.7,170.98,Completado
+S0035,C013,A009,2025-04-12,Declaracion trimestral,6.8,564.99,Completado
+S0036,C010,A008,2024-09-28,Nominas,2.3,190.61,Completado
+S0037,C069,A007,2024-11-20,Constitucion sociedad,5.5,397.59,Pendiente
+S0038,C080,A002,2024-08-28,Constitucion sociedad,0.7,36.45,Pendiente
+S0039,C056,A002,2025-10-10,Impuesto sociedades,2.1,146.81,Completado
+S0040,C004,A001,2024-11-28,Alta autonomo,5.4,300.44,Completado
+S0041,C032,A009,2025-02-25,Constitucion sociedad,6.6,357.59,Completado
+S0042,C079,A007,2025-09-26,Impuesto sociedades,5.4,221.13,completado
+S0043,C060,A011,2024-09-17,Contabilidad mensual,4.7,300.43,Completado
+S0044,C037,A011,2025-07-13,Declaracion trimestral,4.3,405.79,Completado
+S0045,C055,A012,2024-09-13,Contabilidad mensual,1.7,160.06,Completado
+S0046,C014,A004,2025-01-25,Constitucion sociedad,3.4,357.93,Completado
+S0047,C003,A011,2025-02-09,Nominas,4.0,358.98,Completado
+S0048,C078,A012,2025-05-23,Alta autonomo,7.3,430.72,Pendiente
+S0049,C078,A006,2024-08-12,Constitucion sociedad,5.8,400.48,Completado
+S0050,C013,A011,2025-10-23,Declaracion trimestral,1.1,104.59,Completado
+S0051,C017,A002,2024-10-29,Nominas,5.7,286.16,Completado
+S0052,C068,A009,2024-10-06,Alta autonomo,4.2,256.52,Completado
+S0053,C038,A012,2024-12-12,Alta autonomo,3.5,343.52,Completado
+S0054,C051,A009,2025-01-09,Declaracion trimestral,6.3,277.10,Completado
+S0055,C059,A006,2025-11-19,Alta autonomo,7.3,323.07,Completado
+S0056,C014,A011,2024-08-27,Contabilidad mensual,7.0,418.35,Completado
+S0057,C079,A004,2025-10-25,Declaracion trimestral,3.2,297.63,Pendiente
+S0058,C999,A002,2024-05-23,Declaracion trimestral,4.3,367.36,Completado
+S0059,C013,A004,2025-07-04,Declaracion trimestral,5.7,398.19,Completado
+S0060,C076,A012,2024-06-07,Baja trabajador,7.1,535.12,Completado
+S0061,C036,A001,2025-12-07,Contabilidad mensual,3.9,370.30,Completado
+S0062,C013,A011,2025-01-11,Contabilidad mensual,4.6,394.04,Cancelado
+S0063,C036,A004,2024-05-05,Asesoria mercantil,2.6,243.64,Pendiente
+S0064,C077,A001,2024-02-21,Alta autonomo,2.4,131.70,Completado
+S0065,C009,A009,2024-07-31,Constitucion sociedad,6.8,307.97,Completado
+S0066,C077,A001,2024-10-10,Baja trabajador,8.0,385.24,Completado
+S0067,C023,A002,2025-11-07,Baja trabajador,4.8,269.84,Completado
+S0068,C076,A006,2024-01-17,Declaracion trimestral,7.2,382.28,Completado
+S0069,C009,A008,2025-04-04,Alta autonomo,5.8,353.57,Completado
+S0070,C079,A001,2025-11-05,Contabilidad mensual,3.6,179.74,Completado
+S0071,C062,A007,2025-03-12,Impuesto sociedades,5.8,398.70,Completado
+S0072,C011,A006,2025-09-14,Declaracion trimestral,8.4,561.45,Completado
+S0073,C049,A010,2025-06-27,Nominas,4.9,358.57,Completado
+S0074,C071,A012,2024-08-08,Contabilidad mensual,8.4,420.48,Pendiente
+S0075,C052,A007,2024-04-07,Nominas,0.5,144.74,Completado
+S0076,C061,A002,2024-04-03,Alta autonomo,6.8,338.66,Completado
+S0077,C017,A009,2024-03-02,Constitucion sociedad,5.2,279.57,Completado
+S0078,C053,A006,2025-11-12,Asesoria mercantil,4.3,200.11,Completado
+S0079,C037,A010,2024-11-15,Nominas,5.2,348.68,Completado
+S0080,C029,A002,2024-12-24,Baja trabajador,0.6,145.47,Completado
+S0081,C055,A009,2025-09-28,Constitucion sociedad,4.5,317.61,Completado
+S0082,C004,A003,2024-10-06,Impuesto sociedades,5.8,288.33,Completado
+S0083,C024,A003,2025-08-02,Impuesto sociedades,8.3,389.22,Completado
+S0084,C012,A012,2025-06-27,Nominas,3.9,237.64,Completado
+S0085,C040,A012,2024-11-28,Alta autonomo,3.2,230.18,Completado
+S0086,C020,A003,2025-09-24,Declaracion trimestral,3.9,148.10,Completado
+S0087,C063,A010,2025-03-28,Contabilidad mensual,7.0,473.56,Completado
+S0088,C056,A002,2024-10-17,Impuesto sociedades,5.7,381.71,Completado
+S0089,C006,A999,2025-02-08,Asesoria mercantil,3.8,283.08,Completado
+S0090,C018,A005,2024-10-23,Nominas,6.1,297.14,Completado
+S0091,C017,A007,2025-06-29,Impuesto sociedades,5.2,357.96,Completado
+S0092,C010,A007,2024-02-13,Contabilidad mensual,7.1,535.59,Completado
+S0093,C074,A007,2025-08-10,Contabilidad mensual,3.5,212.04,Completado
+S0094,C003,A006,2024-06-24,Alta autonomo,4.3,314.07,Completado
+S0095,C012,A007,2024-04-18,Nominas,4.1,342.90,Completado
+S0096,C040,A012,2024-12-13,Nominas,1.8,216.01,Completado
+S0097,C068,A009,2024-07-17,Asesoria mercantil,5.7,214.74,Completado
+S0098,C031,A002,2024-05-29,Nominas,5.6,378.57,Completado
+S0099,C023,A011,2025-05-20,Contabilidad mensual,5.0,201.75,Completado
+S0100,C041,A003,2025-03-26,Declaracion trimestral,4.5,328.77,Completado
+S0101,C076,A001,2024-12-26,Contabilidad mensual,1.9,166.64,Completado
+S0102,C048,A005,2024-03-19,Impuesto sociedades,4.1,208.35,Cancelado
+S0103,C060,A010,2025-07-21,Asesoria mercantil,4.2,280.27,Completado
+S0104,C042,A010,2025-05-02,Contabilidad mensual,3.2,156.59,Cancelado
+S0105,C011,A009,2025-10-23,Declaracion trimestral,4.6,313.53,Completado
+S0106,C068,A009,2025-09-16,Declaracion trimestral,5.9,416.90,Completado
+S0107,C044,A011,2025-09-04,Declaracion trimestral,9.1,528.60,Completado
+S0108,C013,A009,2025-11-25,Contabilidad mensual,5.4,332.25,Completado
+S0109,C043,A002,2025-08-19,Impuesto sociedades,5.6,402.91,Pendiente
+S0110,C017,A010,2025-12-26,Asesoria mercantil,4.8,340.12,Completado
+S0111,C017,A011,2025-12-20,Alta autonomo,0.8,118.55,Completado
+S0112,C055,A009,2025-01-05,Declaracion trimestral,4.9,289.05,Completado
+S0113,C063,A004,2024-08-19,Asesoria mercantil,5.1,428.28,Completado
+S0114,C065,A009,2025-06-23,Declaracion trimestral,10.4,471.67,Completado
+S0115,C077,A007,2024-06-06,Declaracion trimestral,4.6,324.38,Pendiente
+S0116,C057,A001,2025-02-24,Contabilidad mensual,5.7,393.33,Completado
+S0117,C058,A004,2025-06-30,Nominas,4.9,417.78,Cancelado
+S0118,C048,A011,2025-08-07,Asesoria mercantil,2.4,189.89,Completado
+S0119,C065,A009,2025-03-04,Asesoria mercantil,7.5,456.47,Completado
+S0120,C033,A001,2025-10-18,Contabilidad mensual,6.7,462.40,Completado
+S0121,C037,A002,2025/05/14,Nominas,6.7,453.59,Pendiente
+S0122,C012,A004,,Baja trabajador,3.0,240.47,Pendiente
+S0123,C065,A006,2024-08-29,Contabilidad mensual,8.1,521.12,Completado
+S0124,C013,A012,2025-10-27,Nominas,1.9,161.43,Completado
+S0125,C018,A012,2025-04-25,Contabilidad mensual,6.3,348.95,Completado
+S0126,C028,A003,2025-07-15,Asesoria mercantil,9.8,450.17,Completado
+S0127,C031,A005,2024-05-04,Declaracion trimestral,2.8,219.48,Completado
+S0128,C009,A002,2025-05-26,Constitucion sociedad,3.8,358.59,Completado
+S0129,C019,A005,2025-03-15,Declaracion trimestral,5.2,315.80,Completado
+S0130,C011,A009,2025-01-04,Declaracion trimestral,3.9,254.40,Completado
+S0131,C050,A008,2024-02-14,Constitucion sociedad,1.6,84.41,Cancelado
+S0132,C046,A002,2024-12-19,Nominas,5.2,228.16,Completado
+S0133,C018,A001,2024-12-26,Contabilidad mensual,2.7,184.30,Completado
+S0134,C062,A011,2024-07-05,Alta autonomo,6.0,366.77,Completado
+S0135,C005,A005,2024-07-25,Declaracion trimestral,3.0,306.50,Completado
+S0136,C066,A007,2025-07-10,Contabilidad mensual,8.4,386.32,Completado
+S0137,C046,A001,2025-11-02,Nominas,3.3,270.22,Completado
+S0138,C057,A007,2024-12-13,Asesoria mercantil,4.3,325.89,Completado
+S0139,C011,A012,2025-03-10,Declaracion trimestral,6.8,436.41,Completado
+S0140,C042,A002,2024-03-22,Nominas,2.3,226.70,Completado
+S0141,C022,A012,2025-03-30,Nominas,5.5,398.34,Completado
+S0142,C079,A007,2024-10-08,Constitucion sociedad,7.9,597.07,Completado
+S0143,C047,A009,2025-11-26,Declaracion trimestral,1.5,175.51,Completado
+S0144,C005,A003,2024-03-09,Nominas,5.4,469.40,Completado
+S0145,C078,A003,2025-11-26,Contabilidad mensual,5.6,266.98,Completado
+S0146,C074,A003,2025-06-26,Contabilidad mensual,6.7,338.60,Completado
+S0147,C004,A012,2024-07-09,Contabilidad mensual,2.3,102.93,Completado
+S0148,C034,A012,2025-04-01,Nominas,2.1,194.78,Completado
+S0149,C026,A002,2024-05-18,Baja trabajador,6.1,481.66,Completado
+S0150,C012,A011,2024-11-23,Impuesto sociedades,5.7,498.79,Completado
+S0151,C039,A003,2025-12-29,Impuesto sociedades,5.6,383.80,Completado
+S0152,C066,A004,2024-05-04,Asesoria mercantil,5.8,318.34,Completado
+S0153,C004,A006,2025-07-21,Constitucion sociedad,3.5,271.50,Completado
+S0154,C079,A002,2024-03-08,Nominas,5.5,421.73,Cancelado
+S0155,C053,A010,2024-03-16,Declaracion trimestral,5.6,456.90,Completado
+S0156,C067,A006,2024-05-11,Baja trabajador,3.4,247.83,Completado
+S0157,C017,A007,2025-05-29,Asesoria mercantil,9.1,562.27,Completado
+S0158,C039,A003,2024-06-14,Nominas,6.0,276.07,Completado
+S0159,C011,A005,2024-07-20,Constitucion sociedad,2.4,193.07,Completado
+S0160,C079,A009,2024-04-05,Contabilidad mensual,6.4,332.04,Completado
+S0161,C022,A011,2025-10-01,Impuesto sociedades,2.9,237.07,Completado
+S0162,C004,A002,2024-02-16,Asesoria mercantil,6.7,432.07,Completado
+S0163,C074,A007,2025-09-24,Constitucion sociedad,7.5,371.97,Completado
+S0164,C039,A008,2024-09-07,Alta autonomo,3.2,262.24,Completado
+S0165,C008,A003,2025-03-26,Contabilidad mensual,7.1,322.41,Completado
+S0166,C041,A012,2024-11-22,Impuesto sociedades,5.9,316.75,Pendiente
+S0167,C048,A009,2025-07-29,Declaracion trimestral,6.8,510.14,Completado
+S0168,C032,A003,2024-04-09,Declaracion trimestral,9.2,481.45,Pendiente
+S0169,C032,A003,2024-12-01,Asesoria mercantil,4.5,413.61,Completado
+S0170,C064,A009,2025-04-23,Contabilidad mensual,3.3,177.43,Completado
+S0171,C065,A008,2024-09-03,Nominas,3.0,227.43,Completado
+S0172,C077,A011,2025-11-19,Contabilidad mensual,3.2,237.66,Completado
+S0173,C018,A005,2025-01-09,Alta autonomo,4.8,430.32,Completado
+S0174,C047,A009,2024-10-22,Declaracion trimestral,5.8,324.32,Completado
+S0175,C080,A011,2025-09-17,Declaracion trimestral,5.6,425.82,Cancelado
+S0176,C072,A006,2024-05-27,Nominas,6.8,411.75,Completado
+S0177,C005,A003,2025-12-31,Nominas,5.0,262.51,Completado
+S0178,C042,A010,2024-11-22,Declaracion trimestral,8.2,458.16,Cancelado
+S0179,C076,A006,2025-06-03,Alta autonomo,4.4,347.86,Completado
+S0180,C061,A001,2025-01-12,Nominas,11.0,737.86,Completado
+S0181,C004,A010,2025-04-30,Nominas,6.4,397.31,Completado
+S0182,C007,A010,2025-05-06,Declaracion trimestral,3.1,253.97,Completado
+S0183,C019,A011,2024-09-05,Declaracion trimestral,2.6,267.40,Pendiente
+S0184,C057,A006,2025-03-04,Declaracion trimestral,6.1,236.96,Completado
+S0185,C008,A012,2024-05-21,Contabilidad mensual,4.5,342.13,Completado
+S0186,C068,A007,2024-11-17,Asesoria mercantil,6.6,581.57,Completado
+S0187,C034,A010,2025-05-10,Nominas,6.0,401.96,Completado
+S0188,C039,A005,2025-12-22,Nominas,4.8,301.76,Completado
+S0189,C072,A012,2024-10-07,Nominas,3.1,222.90,Completado
+S0190,C045,A003,2024-10-24,Declaracion trimestral,1.7,211.82,Cancelado
+S0191,C033,A012,2025-05-05,Nominas,4.0,271.06,Pendiente
+S0192,C018,A002,2025-09-22,Alta autonomo,6.9,386.98,Completado
+S0193,C030,A001,2024-04-12,Contabilidad mensual,5.5,242.27,Completado
+S0194,C001,A009,2024-06-10,Contabilidad mensual,2.3,128.59,Pendiente
+S0195,C026,A005,2024-11-24,Nominas,5.4,475.02,Completado
+S0196,C069,A012,2024-02-08,Asesoria mercantil,5.8,399.05,Completado
+S0197,C005,A007,2025-05-22,Nominas,3.1,244.22,Completado
+S0198,C005,A001,2024-11-01,Constitucion sociedad,5.3,427.31,Completado
+S0199,C059,A011,2025-07-10,Contabilidad mensual,5.1,433.96,Pendiente
+S0200,C035,A004,2024-04-25,Nominas,2.5,219.24,Completado
+S0201,C002,A012,2024-12-11,Alta autonomo,5.8,374.60,Completado
+S0202,C079,A011,2025-02-19,Alta autonomo,6.2,421.33,Completado
+S0203,C024,A003,2025-05-03,Nominas,7.4,281.47,Completado
+S0204,C058,A005,2024-12-03,Nominas,7.3,362.13,Completado
+S0205,C031,A001,2025-11-14,Declaracion trimestral,2.0,150.80,Completado
+S0206,C016,A011,2024-10-29,Contabilidad mensual,2.9,222.65,Completado
+S0207,C020,A008,2025-09-12,Contabilidad mensual,6.1,537.90,Completado
+S0208,C032,A011,2025-09-02,Baja trabajador,6.1,448.38,Completado
+S0209,C010,A010,2024-04-24,Declaracion trimestral,6.1,388.88,Completado
+S0210,C022,A006,2025-06-16,Contabilidad mensual,13.5,751.34,Completado
+S0211,C012,A009,2025-04-01,Alta autonomo,6.3,498.58,Completado
+S0212,C073,A001,2025-07-26,Contabilidad mensual,7.5,517.23,Completado
+S0213,C033,A001,2024-08-11,Constitucion sociedad,7.1,548.24,Completado
+S0214,C070,A001,2024-03-11,Asesoria mercantil,6.4,301.17,Completado
+S0215,C018,A011,2025-10-23,Asesoria mercantil,4.3,233.71,Completado
+S0216,C049,A007,2024-03-23,Impuesto sociedades,6.7,563.52,Completado
+S0217,C016,A003,2025-07-04,Contabilidad mensual,3.3,257.79,Completado
+S0218,C003,A005,2025-04-19,Impuesto sociedades,4.5,311.65,Completado
+S0219,C032,A008,2024-12-20,Declaracion trimestral,3.9,249.11,Completado
+S0220,C005,A011,2025-03-05,Constitucion sociedad,5.2,341.29,Pendiente
+S0221,C027,A002,2024-04-13,Constitucion sociedad,10.1,707.78,Completado
+S0222,C032,A012,2024-02-15,Contabilidad mensual,0.9,52.67,Completado
+S0223,C018,A009,2024-10-23,Nominas,6.5,276.93,Pendiente
+S0224,C031,A005,2024-05-26,Asesoria mercantil,1.5,162.75,Completado
+S0225,C008,A009,2025-08-28,Baja trabajador,4.0,277.90,Pendiente
+S0226,C072,A008,2024-02-18,Asesoria mercantil,7.4,541.13,Pendiente
+S0227,C054,A007,2024-06-01,Nominas,5.1,378.33,Completado
+S0228,C029,A005,2025-12-25,Declaracion trimestral,2.6,179.95,Completado
+S0229,C054,A009,2025-06-26,Declaracion trimestral,3.4,245.86,Completado
+S0230,C058,A006,2024-04-04,Contabilidad mensual,6.5,273.76,Pendiente
+S0231,C078,A010,2024-02-10,Baja trabajador,3.4,245.13,Completado
+S0232,C062,A004,2024-12-06,Nominas,5.5,379.13,Pendiente
+S0233,C016,A012,2025-05-05,Asesoria mercantil,5.1,256.31,Completado
+S0234,C031,A009,2024-11-25,Alta autonomo,3.6,334.67,Completado
+S0235,C040,A005,2025-01-03,Contabilidad mensual,9.7,600.67,Completado
+S0236,C041,A004,2025-01-14,Nominas,6.4,366.09,Completado
+S0237,C003,A005,2025-07-20,Asesoria mercantil,0.5,72.62,Completado
+S0238,C026,A006,2024-08-23,Contabilidad mensual,5.4,307.92,Pendiente
+S0239,C033,A008,2025-10-19,Impuesto sociedades,3.5,263.66,Completado
+S0240,C022,A003,2025-07-13,Contabilidad mensual,6.9,498.46,Pendiente
+S0241,C068,A001,2024-03-17,Asesoria mercantil,3.3,178.12,Completado
+S0242,C018,A011,2024-08-24,Declaracion trimestral,4.7,410.23,Completado
+S0243,C048,A001,2025-09-24,Constitucion sociedad,6.1,380.20,Pendiente
+S0244,C003,A001,2025-06-28,Contabilidad mensual,6.9,581.93,Completado
+S0245,C069,A005,2024-01-18,Contabilidad mensual,2.4,208.47,Completado
+S0246,C014,A002,2025-06-20,Declaracion trimestral,4.3,255.30,Completado
+S0247,C035,A007,2024-03-21,Contabilidad mensual,4.0,293.70,Completado
+S0248,C039,A011,2024-03-23,Impuesto sociedades,3.6,237.19,Pendiente
+S0249,C052,A007,2025-01-21,Contabilidad mensual,8.9,548.11,Completado
+S0250,C011,A008,2025-03-20,Impuesto sociedades,5.9,248.45,Completado
+S0250,C011,A008,2025-03-20,Impuesto sociedades,5.9,248.45,Completado
+S0252,C035,A001,2024-03-17,Impuesto sociedades,7.0,582.45,Completado
+S0253,C023,A006,2024-01-17,Asesoria mercantil,9.7,523.86,Completado
+S0254,C010,A005,2024-06-15,Constitucion sociedad,7.3,567.70,Completado
+S0255,C050,A012,2024-05-23,Alta autonomo,1.7,190.04,Completado
+S0256,C007,A002,2025-03-23,Nominas,3.9,227.21,Completado
+S0257,C042,A001,2025-10-11,Nominas,7.8,558.21,Cancelado
+S0258,C071,A007,2025-03-18,Nominas,3.4,257.38,Completado
+S0259,C032,A012,2024-03-16,Declaracion trimestral,6.0,369.82,Completado
+S0260,C050,A006,2025-01-04,Declaracion trimestral,6.7,441.39,Completado
+S0261,C035,A002,2024-05-15,Declaracion trimestral,3.0,217.37,Completado
+S0262,C014,A001,2024-04-01,Nominas,4.9,387.02,Completado
+S0263,C050,A001,2024-10-25,Contabilidad mensual,0.5,107.97,Completado
+S0264,C074,A009,2024-06-22,Impuesto sociedades,2.7,203.00,Completado
+S0265,C064,A003,2024-03-05,Declaracion trimestral,4.4,275.41,Completado
+S0266,C047,A005,2024-09-09,Impuesto sociedades,2.3,104.63,Completado
+S0267,C014,A003,2024-11-07,Declaracion trimestral,8.6,606.62,Completado
+S0268,C043,A008,2024-12-08,Contabilidad mensual,1.9,242.47,Pendiente
+S0269,C039,A006,2025-09-09,Asesoria mercantil,4.0,271.15,Completado
+S0270,C041,A005,2025-12-12,Constitucion sociedad,5.3,363.78,Cancelado
+S0271,C049,A005,2025-02-06,Contabilidad mensual,8.2,591.43,Pendiente
+S0272,C071,A001,2025-04-17,Asesoria mercantil,1.8,115.59,Completado
+S0273,C053,A011,2025-05-26,Declaracion trimestral,7.6,478.18,Completado
+S0274,C055,A007,2024-03-16,Contabilidad mensual,5.0,259.22,Completado
+S0275,C070,A001,2025-01-03,Impuesto sociedades,2.8,275.06,Completado
+S0276,C014,A004,2025-11-04,Impuesto sociedades,6.0,334.70,Completado
+S0277,C043,A007,2024-04-18,Declaracion trimestral,5.4,424.80,Completado
+S0278,C058,A006,2025-02-04,Contabilidad mensual,3.7,235.63,Completado
+S0279,C045,A001,2025-05-09,Declaracion trimestral,5.2,347.66,Completado
+S0280,C019,A006,2024-11-15,Nominas,4.2,288.37,Completado
+S0281,C061,A002,2025-03-24,Impuesto sociedades,5.2,356.84,Completado
+S0282,C015,A001,2024-12-17,Impuesto sociedades,6.5,242.78,Completado
+S0283,C067,A003,2025-07-19,Declaracion trimestral,8.5,386.40,Completado
+S0284,C052,A011,2024-07-07,Nominas,2.3,197.66,Completado
+S0285,C058,A010,2025-03-15,Contabilidad mensual,9.7,513.80,Completado
+S0286,C074,A002,2025-07-03,Nominas,0.7,29.54,Completado
+S0287,C063,A009,2025-10-16,Nominas,4.7,319.77,Completado
+S0288,C045,A006,2025-04-13,Constitucion sociedad,6.3,307.06,Completado
+S0289,C079,A010,2024-03-27,Impuesto sociedades,5.6,414.37,Completado
+S0290,C024,A006,2025-12-11,Declaracion trimestral,3.6,156.06,Completado
+S0291,C055,A003,2025-05-13,Constitucion sociedad,4.5,371.44,Completado
+S0292,C072,A003,2025-05-16,Nominas,3.9,264.58,Completado
+S0293,C046,A001,2025-05-11,Declaracion trimestral,3.7,238.54,Completado
+S0294,C053,A011,2025-05-18,Contabilidad mensual,6.9,594.26,Pendiente
+S0295,C073,A001,2024-08-13,Nominas,5.8,302.21,Completado
+S0296,C059,A010,2025-05-22,Contabilidad mensual,3.5,228.36,Completado
+S0297,C070,A001,2025-03-27,Contabilidad mensual,7.0,352.98,Cancelado
+S0298,C039,A001,2025-04-05,Nominas,5.7,259.93,Pendiente
+S0299,C031,A004,2025-08-25,Impuesto sociedades,6.8,258.70,Pendiente
+S0300,C022,A010,2024-05-22,Alta autonomo,6.4,480.70,Completado
+S0301,C069,A005,2025-09-03,Contabilidad mensual,3.2,282.21,Completado
+S0302,C074,A005,2025-06-10,Asesoria mercantil,3.8,306.64,Completado
+S0303,C008,A005,2025-11-02,Declaracion trimestral,6.6,373.00,Pendiente
+S0304,C032,A011,2025-02-06,Contabilidad mensual,6.3,355.55,Completado
+S0305,C049,A008,2024-03-18,Constitucion sociedad,5.0,342.03,Pendiente
+S0306,C048,A008,2025-05-14,Nominas,5.3,282.77,Completado
+S0307,C059,A011,2025-11-11,Impuesto sociedades,7.8,484.34,Pendiente
+S0308,C028,A007,2024-08-04,Contabilidad mensual,3.7,352.54,Completado
+S0309,C073,A008,2024-12-17,Baja trabajador,6.2,318.54,Completado
+S0310,C003,A002,2024-06-10,Contabilidad mensual,4.6,288.40,Completado
+S0311,C017,A011,2024-11-05,Declaracion trimestral,4.5,348.39,Pendiente
+S0312,C033,A002,2025-01-15,Impuesto sociedades,7.4,409.97,Completado
+S0313,C030,A007,2025-11-02,Declaracion trimestral,6.8,330.33,Completado
+S0314,C017,A010,2024-08-19,Contabilidad mensual,6.8,288.79,Completado
+S0315,C016,A007,2025-12-11,Declaracion trimestral,7.9,358.73,Completado
+S0316,C014,A006,2025-01-11,Baja trabajador,5.0,242.04,Completado
+S0317,C019,A002,2025-06-27,Constitucion sociedad,6.5,443.46,Completado
+S0318,C028,A011,2024-06-04,Asesoria mercantil,4.3,255.20,Completado
+S0319,C012,A002,2024-05-23,Alta autonomo,5.7,327.76,Completado
+S0320,C041,A003,2024-09-10,Nominas,4.7,347.67,Completado
+S0321,C004,A011,2024-11-04,Nominas,5.2,362.72,Completado
+S0322,C038,A011,2024-02-25,Alta autonomo,6.3,382.10,Completado
+S0323,C015,A004,2025-05-26,Constitucion sociedad,3.2,258.81,Completado
+S0324,C047,A006,2024-05-15,Contabilidad mensual,9.6,634.61,Pendiente
+S0325,C061,A002,2024-01-18,Constitucion sociedad,2.8,179.24,Completado
+S0326,C051,A009,2024-10-20,Constitucion sociedad,2.3,97.87,Completado
+S0327,C011,A011,2025-07-03,Contabilidad mensual,7.5,491.55,Completado
+S0328,C066,A004,2024-06-08,Contabilidad mensual,6.7,254.10,Completado
+S0329,C040,A012,2025-03-23,Impuesto sociedades,6.4,366.08,Pendiente
+S0330,C056,A002,2025-04-09,Constitucion sociedad,6.4,236.97,Completado
+S0331,C016,A001,2025-12-25,Declaracion trimestral,5.0,331.56,Completado
+S0332,C067,A009,2024-09-22,Declaracion trimestral,3.0,237.12,Completado
+S0333,C016,A001,2024-12-09,Alta autonomo,5.2,404.16,Completado
+S0334,C064,A008,2025-06-07,Contabilidad mensual,3.5,130.32,Completado
+S0335,C021,A005,2024-04-15,Baja trabajador,7.1,469.37,Completado
+S0336,C006,A001,2024-09-07,Declaracion trimestral,4.7,183.47,Completado
+S0337,C005,A009,2025-11-02,Contabilidad mensual,3.2,255.07,Completado
+S0338,C035,A002,2025-08-08,Contabilidad mensual,4.3,293.15,Completado
+S0339,C029,A009,2024-02-17,Asesoria mercantil,5.9,432.75,Completado
+S0340,C040,A006,2024-03-29,Contabilidad mensual,3.8,274.86,Completado
+S0341,C080,A004,2025-04-20,Contabilidad mensual,3.2,214.48,Cancelado
+S0342,C070,A004,2024-06-03,Declaracion trimestral,5.5,424.57,Completado
+S0343,C002,A006,2024-01-02,Alta autonomo,5.5,317.35,Completado
+S0344,C014,A004,2025-06-26,Asesoria mercantil,3.9,317.25,Completado
+S0345,C036,A002,2024-02-14,Asesoria mercantil,4.0,314.57,Pendiente
+S0346,C059,A012,2024-03-27,Constitucion sociedad,5.5,372.55,Completado
+S0347,C010,A010,2025-08-04,Declaracion trimestral,1.8,223.14,Completado
+S0348,C034,A006,2025-02-06,Impuesto sociedades,1.9,155.19,Completado
+S0349,C030,A002,2024-07-26,Declaracion trimestral,3.4,236.85,Completado
+S0350,C022,A008,2025-04-22,Nominas,4.5,174.66,Completado
+S0351,C058,A005,2025-04-19,Nominas,5.7,310.98,Completado
+S0352,C078,A001,2024-08-08,Alta autonomo,8.2,412.24,Completado
+S0353,C046,A007,2025-06-09,Declaracion trimestral,6.9,303.53,Completado
+S0354,C004,A007,2025-04-08,Contabilidad mensual,4.6,333.03,Completado
+S0355,C018,A002,2024-01-13,Declaracion trimestral,5.0,191.58,Completado
+S0356,C052,A006,2025-12-03,Constitucion sociedad,2.8,159.78,Completado
+S0357,C010,A001,2024-03-07,Nominas,5.0,356.91,Completado
+S0358,C043,A002,2024-02-13,Asesoria mercantil,4.4,278.63,Completado
+S0359,C051,A008,2024-01-31,Contabilidad mensual,5.7,503.86,Completado
+S0360,C036,A005,2025-04-01,Baja trabajador,3.2,191.64,Completado
+S0361,C038,A008,2025-02-25,Baja trabajador,6.1,385.69,Completado
+S0362,C018,A007,2024-07-23,Impuesto sociedades,8.4,439.79,Completado
+S0363,C049,A012,2025-01-02,Contabilidad mensual,4.8,209.86,Completado
+S0364,C050,A005,2024-07-03,Declaracion trimestral,5.9,357.54,Completado
+S0365,C008,A008,2025-06-26,Nominas,6.5,314.17,Completado
+S0366,C013,A004,2025-11-03,Nominas,4.1,216.90,Completado
+S0367,C029,A010,2025-02-01,Nominas,5.5,344.81,Pendiente
+S0368,C031,A010,2024-11-21,Alta autonomo,5.0,362.91,Completado
+S0369,C046,A010,2025-07-31,Declaracion trimestral,5.2,348.34,Pendiente
+S0370,C070,A005,2024-06-28,Contabilidad mensual,3.3,332.14,Completado
+S0371,C003,A009,2025-05-04,Declaracion trimestral,5.1,260.02,Pendiente
+S0372,C044,A012,2024-06-30,Asesoria mercantil,6.1,296.51,Pendiente
+S0373,C019,A010,2025-12-22,Asesoria mercantil,8.2,379.87,Completado
+S0374,C010,A006,2025-12-22,Asesoria mercantil,7.1,538.85,Completado
+S0375,C042,A003,2024-06-10,Impuesto sociedades,9.7,453.80,Completado
+S0376,C041,A003,2025-12-25,Asesoria mercantil,3.3,309.34,Completado
+S0377,C029,A011,2025-08-26,Alta autonomo,6.9,545.82,Completado
+S0378,C017,A003,2024-01-02,Asesoria mercantil,5.4,407.73,Pendiente
+S0379,C024,A010,2024-11-21,Asesoria mercantil,9.8,477.32,Cancelado
+S0380,C064,A003,2024-12-05,Alta autonomo,3.2,136.74,Completado
+S0381,C012,A012,2025-11-17,Constitucion sociedad,3.2,262.03,Pendiente
+S0382,C027,A004,2025-12-10,Declaracion trimestral,3.7,267.34,Completado
+S0383,C007,A007,2025-03-24,Impuesto sociedades,0.5,19.39,Cancelado
+S0384,C049,A006,2025-07-13,Contabilidad mensual,3.8,370.65,Pendiente
+S0385,C021,A008,2024-03-16,Alta autonomo,3.3,246.60,Completado
+S0386,C014,A002,2024-12-16,Declaracion trimestral,5.3,269.22,Completado
+S0387,C044,A010,2025-09-20,Baja trabajador,5.8,351.59,Completado
+S0388,C078,A007,2024-06-09,Declaracion trimestral,9.1,495.88,Completado
+S0389,C071,A012,2025-07-07,Nominas,7.1,610.64,Completado
+S0390,C051,A010,2025-07-16,Alta autonomo,3.7,160.26,Completado
+S0391,C012,A005,2025-11-08,Constitucion sociedad,3.0,262.89,Completado
+S0392,C022,A011,2024-10-25,Asesoria mercantil,6.1,274.21,Completado
+S0393,C061,A008,2025-11-07,Nominas,2.1,201.99,Completado
+S0394,C049,A006,2024-07-10,Contabilidad mensual,9.0,517.07,Completado
+S0395,C035,A010,2024-03-04,Declaracion trimestral,7.6,429.71,Completado
+S0396,C070,A007,2025-08-26,Nominas,4.0,233.54,Completado
+S0397,C069,A011,2025-05-01,Constitucion sociedad,1.2,178.26,Completado
+S0398,C005,A009,2025-08-07,Asesoria mercantil,8.0,483.68,Completado
+S0399,C016,A008,2024-06-26,Asesoria mercantil,4.7,315.95,Completado
+S0400,C017,A001,2025-03-09,Declaracion trimestral,7.7,366.60,Completado
