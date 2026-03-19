@@ -1,4 +1,4 @@
-# 📊 SQL Analytics Pipeline – Asesoría
+# SQL Analytics Pipeline – Asesoría
 
 ## 1. Descripción del proyecto
 
