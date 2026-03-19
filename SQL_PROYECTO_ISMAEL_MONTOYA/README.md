@@ -77,9 +77,9 @@ proyecto-sql/ <br>
 │ ├── 05_analysis_queries.sql <br>
 │ ├── 06_quality_checks.sql <br>
 │ ├── 07_advanced_sql.sql <br>
-│
-├── PROJECT_BRIEF.md
-└── README.md
+│ <br>
+├── PROJECT_BRIEF.md <br>
+└── README.md <br>
 
 
 ---
